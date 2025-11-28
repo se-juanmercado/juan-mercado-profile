@@ -2562,6 +2562,10 @@ input::-moz-focus-inner {
   padding-top: 3.6rem;
 }
 
+.services-list .item-service__content p {
+  text-align: justify;
+}
+
 .services-list .item-service__content::before {
   display: block;
   content: counter(ctr, decimal-leading-zero) ".";
