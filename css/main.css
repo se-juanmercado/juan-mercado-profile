@@ -2562,6 +2562,7 @@ input::-moz-focus-inner {
   padding-top: 3.6rem;
 }
 
+
 .services-list .item-service__content p {
   text-align: justify;
 }
@@ -3357,9 +3358,16 @@ input::-moz-focus-inner {
 * responsive:
 * contact
 * ------------------------------------------------------------------- */
+
+@media screen and (min-width: 1301px){
+  .contact-email {
+    font-size: 5.5rem;
+  }
+}
+
 @media screen and (max-width:1300px) {
   .contact-email {
-    font-size: 10rem;
+    font-size: 8.5rem;
   }
 
   .contact-infos {
@@ -3374,7 +3382,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1200px) {
   .contact-email {
-    font-size: 9rem;
+    font-size: 7rem;
   }
 
   .contact-infos {
@@ -3385,7 +3393,7 @@ input::-moz-focus-inner {
 
 @media screen and (max-width:1024px) {
   .contact-email {
-    font-size: 7.2rem;
+    font-size: 5.2rem;
   }
 
   .contact-infos {
@@ -3404,7 +3412,7 @@ input::-moz-focus-inner {
   }
 
   .contact-email {
-    font-size: 9vw;
+    font-size: 7vw;
   }
 
   .contact-infos {
