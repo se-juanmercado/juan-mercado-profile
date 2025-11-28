@@ -1631,8 +1631,7 @@ input::-moz-focus-inner {
 }
 
 .header-logo img {
-  width: 132px;
-  height: 36px;
+  width: 110px;
   margin: 0;
 }
 
@@ -1806,23 +1805,10 @@ input::-moz-focus-inner {
   }
 
 }
+ 
+
 
 @media screen and (max-width:1000px) {
-  .s-header {
-    text-align: right;
-  }
-
-  .header-nav-wrap {
-    margin-right: 36px;
-  }
-
-  .header-nav-wrap .header-social {
-    display: none;
-  }
-
-}
-
-@media screen and (max-width:800px) {
   .s-header {
     background-color: #050505;
     position: fixed;
@@ -1830,8 +1816,7 @@ input::-moz-focus-inner {
   }
 
   .header-logo img {
-    width: 128px;
-    height: 30px;
+    width: 110px;
   }
 
   .header-nav-wrap {
@@ -1890,10 +1875,17 @@ input::-moz-focus-inner {
 
 }
 
+@media screen and (max-width:230px){
+  .header-logo img {
+    width: 136px;
+    height: 32px;
+  }
+}
+
 /* -------------------------------------------------------------------
  * make sure the menu is visible on larger screens
  * ------------------------------------------------------------------- */
-@media only screen and (min-width:801px) {
+@media only screen and (min-width:1001px) {
   .header-nav-wrap {
     display: block !important;
   }
@@ -1927,7 +1919,7 @@ input::-moz-focus-inner {
   background-color: #02182c;
   background-repeat: no-repeat;
   background-position: top center;
-  background-image: url(../images/hero-pic.jpg);
+  background-image: url(../images/me.jpg);
   background-size: cover;
   position: absolute;
   top: 20%;
