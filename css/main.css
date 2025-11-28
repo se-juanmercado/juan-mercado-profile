@@ -2181,6 +2181,7 @@ input::-moz-focus-inner {
   -moz-columns: 2 360px;
   columns: 2 360px;
   column-gap: 64px;
+  text-align: justify;
 }
 
 .about-me__buttons {
