@@ -28,4 +28,4 @@ Cualquier autorización relacionada con Epitome debe consultarse directamente co
 
 5. Contacto
 
-Para solicitudes sobre el contenido personal (no sobre la plantilla), puede contactarse a través del sitio web profesional del autor, publicado en este repositorio.
+Para solicitudes sobre el contenido personal (no sobre la plantilla), puede contactarse a través del sitio web profesional del autor: https://se-juanmercado.github.io/juan-mercado-profile/.

@@ -29,4 +29,4 @@ Any request regarding the Epitome template must be directed to Styleshout.
 
 5. Contact
 
-For permissions regarding the author's personal content (not the template), please use the professional website link provided in this repository.
+For permissions regarding the author's personal content (not the template), please use the professional website link provided in this repository: https://se-juanmercado.github.io/juan-mercado-profile/.
