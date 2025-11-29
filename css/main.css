@@ -3539,7 +3539,7 @@ footer a:visited {
 }
 
 .ss-go-top::after {
-  content: "back to top";
+  content: "Ir a inicio";
   display: block;
   float: left;
   width: 120px;
